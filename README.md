@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The **Heart Disease Prediction System** is a Machine Learning based web application that predicts the likelihood of heart disease using patient medical information.
 
@@ -17,7 +17,7 @@ This project demonstrates:
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Predicts heart disease risk using medical parameters
 
@@ -33,7 +33,7 @@ This project demonstrates:
 
 ---
 
-## 🧠 Machine Learning Models Used
+##  Machine Learning Models Used
 
 * Logistic Regression
 * Random Forest Classifier
@@ -42,7 +42,7 @@ This project demonstrates:
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model | Training Accuracy | Testing Accuracy | Precision | Recall | F1 Score |
 | --- | --- | --- | --- | --- | --- |
@@ -51,13 +51,13 @@ This project demonstrates:
 | Gradient Boosting | 99.59% | 88.52% | 80.56% | 100.00% | 89.23% |
 | AdaBoost | 86.78% | 88.52% | 82.35% | 96.55% | 88.89% |
 
-### 🏆 Best Performing Model
+###  Best Performing Model
 
 **Random Forest Classifier** achieved the highest testing accuracy of **90.16%**.
 
 ---
 
-## ⚙️ Model Working Flow
+##  Model Working Flow
 
 ```text
 Data Collection
@@ -80,7 +80,7 @@ Deployment using Streamlit
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Language
 
@@ -98,7 +98,7 @@ Deployment using Streamlit
 
 ---
 
-## 💻 Run Locally
+##  Run Locally
 
 ### Clone Repository
 
